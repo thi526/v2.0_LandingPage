@@ -1,4 +1,4 @@
-//alert("Cookies: Pegaremos os seus DADOS !!!")
+alert("Cookies: Pegaremos os seus DADOS !!!")
 
 //Versao 2.0: Lista Suspensa Melhorada
 function validacaoteFormulario() {
